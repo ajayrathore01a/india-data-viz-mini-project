@@ -1,5 +1,5 @@
 pandas
 numpy
 streamlit
-plotly==6.20.0
+plotly==5.20.0
 kaleido
